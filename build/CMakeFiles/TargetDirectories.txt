@@ -1,3 +1,0 @@
-/root/dev/sokyu-node/build/CMakeFiles/rebuild_cache.dir
-/root/dev/sokyu-node/build/CMakeFiles/edit_cache.dir
-/root/dev/sokyu-node/build/CMakeFiles/SokyuNode.dir
