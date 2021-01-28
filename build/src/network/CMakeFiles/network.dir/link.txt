@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnetwork.a CMakeFiles/network.dir/Address.cpp.o CMakeFiles/network.dir/Client.cpp.o CMakeFiles/network.dir/Network.cpp.o CMakeFiles/network.dir/NetworkHandler.cpp.o CMakeFiles/network.dir/Packet.cpp.o CMakeFiles/network.dir/Peer.cpp.o CMakeFiles/network.dir/PeerManager.cpp.o CMakeFiles/network.dir/Server.cpp.o
+/usr/bin/ranlib libnetwork.a

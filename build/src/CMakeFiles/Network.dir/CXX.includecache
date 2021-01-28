@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/dev/networkcmake/src/Node.h
+string
+-
+Network.h
+/root/dev/networkcmake/src/Network.h
+Blockchain.h
+/root/dev/networkcmake/src/Blockchain.h
+
+/root/dev/networkcmake/src/main.cpp
+iostream
+-
+Node.h
+/root/dev/networkcmake/src/Node.h
+

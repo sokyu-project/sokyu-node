@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/dev/network/src/Hash.cpp
+Hash.h
+/root/dev/network/src/Hash.h
+cstdint
+-
+stdexcept
+-
+bits/stdc++.h
+-
+stdlib.h
+-
+iostream
+-
+time.h
+-
+
+/root/dev/network/src/Hash.h
+cstdint
+-
+array
+-
+string
+-
+
