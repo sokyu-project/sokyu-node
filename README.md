@@ -2,7 +2,7 @@
 
 Node for the Sokyu Network
 
-# How to build
+## How to build
 
 Building requires you to have cmake installed. When it is installed, run:
 
